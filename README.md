@@ -3,7 +3,7 @@
 This project builds a machine learning model to recognize handwritten digits using the MNIST dataset. Implemented in Python and executed in Google Colab, it demonstrates image preprocessing, model training, and evaluation.
 
 ### **Tools & Technologies:**
-  Python
+  Python 
   Libraries: NumPy, pandas, matplotlib, TensorFlow / Keras / scikit-learn
   Platform: Google Colab
 
