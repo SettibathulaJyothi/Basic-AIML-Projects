@@ -102,5 +102,4 @@ This project builds a machine learning model to recognize handwritten digits usi
 
 
 ### **Acknowledgments:**
-
 These projects were developed as part of the AI & ML Virtual Internship, with guidance from mentors and support from the academic community.
